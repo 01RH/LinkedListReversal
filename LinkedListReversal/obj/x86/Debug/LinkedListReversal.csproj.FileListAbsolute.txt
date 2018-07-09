@@ -1,0 +1,6 @@
+/Users/user/Projects/LinkedListReversal/LinkedListReversal/bin/Debug/LinkedListReversal.exe
+/Users/user/Projects/LinkedListReversal/LinkedListReversal/bin/Debug/LinkedListReversal.pdb
+/Users/user/Projects/LinkedListReversal/LinkedListReversal/obj/x86/Debug/LinkedListReversal.csprojResolveAssemblyReference.cache
+/Users/user/Projects/LinkedListReversal/LinkedListReversal/obj/x86/Debug/LinkedListReversal.csproj.CoreCompileInputs.cache
+/Users/user/Projects/LinkedListReversal/LinkedListReversal/obj/x86/Debug/LinkedListReversal.exe
+/Users/user/Projects/LinkedListReversal/LinkedListReversal/obj/x86/Debug/LinkedListReversal.pdb
